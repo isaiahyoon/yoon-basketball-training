@@ -34,7 +34,7 @@ The site is static. Serve the repository root with any static file server, for e
 
 English is the default; Spanish and Korean are available through `?lang=es` and `?lang=ko`. The language selector retains other query parameters and the current page fragment.
 
-The social preview uses the approved logo. Once the public site URL is known, set the Open Graph and Twitter image URLs in `index.html` to the absolute URL of `assets/social-preview.png` so social crawlers can reliably fetch it.
+The social preview uses the approved logo, with absolute image URLs on `https://yoonbasketballtraining.com`.
 
 ## Contact
 
