@@ -22,7 +22,7 @@ Deliberate practice and competition strengthen each other: practice prepares pla
 
 - **Who:** Players of all ages who want to improve their game.
 - **Schedule and price:** Once a week, for one hour per session at $55. Any time beyond the hour is not charged.
-- **Location:** Pan Pacific Park, 7600 Beverly Blvd, Los Angeles, CA 90036. [View basketball courts on Google Maps](https://www.google.com/maps/search/?api=1&query=34.074861%2C-118.354784).
+- **Location:** Pan Pacific Park, 7600 Beverly Blvd, Los Angeles, CA 90036. [View basketball courts on Google Maps](https://www.google.com/maps/place/Basketball+Courts/@34.0750093,-118.3545936,20z/data=!4m12!1m5!3m4!2zMzTCsDA0JzI5LjUiTiAxMTjCsDIxJzE3LjIiVw!8m2!3d34.074861!4d-118.354784!3m5!1s0x80c2b900222a1283:0x4cb23af924206256!8m2!3d34.0749209!4d-118.3547999!16s%2Fg%2F11x14g2c3d?entry=ttu&g_ep=EgoyMDI2MTEyMy4wIKXMDSoASAFQAw%3D%3D).
 - **Equipment:** Basketballs and training equipment are provided. Players bring their own shoes.
 - **Payment:** Payment is due within one hour after the session ends. If payment is not received by then, training will stop. Payment methods are Cash App or Venmo (both @pyrolazuli), Zelle (323-774-8524), or cash.
 - **Cancellation:** At least 24 hours' notice incurs no charge. Cancellations with less than 24 hours' notice and no-shows incur a $22 fee, with discretion to waive it for emergencies.
