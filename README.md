@@ -2,7 +2,9 @@
 
 **Sharpen your skills. Grow with patience. Play with joy.**
 
-YBT is a personal basketball coaching and training project. This site will introduce the training philosophy and advertise coaching services.
+YBT is a personal basketball coaching and training project. This site introduces the training philosophy and coaching services.
+
+YBT is planned as a sole proprietorship.
 
 ## Training philosophy
 
@@ -25,6 +27,14 @@ YBT is a personal basketball coaching and training project. This site will intro
 - **Coach cancellation:** If Isaiah cancels, there is no charge and the session can be rescheduled.
 
 Park authorization and minor-safety policies remain to be confirmed.
+
+## Website
+
+The site is static. Serve the repository root with any static file server, for example `python3 -m http.server 8000`, and visit `http://localhost:8000`.
+
+English is the default; Spanish and Korean are available through `?lang=es` and `?lang=ko`. The language selector retains other query parameters and the current page fragment.
+
+The social preview uses the approved logo. Once the public site URL is known, set the Open Graph and Twitter image URLs in `index.html` to the absolute URL of `assets/social-preview.png` so social crawlers can reliably fetch it.
 
 ## Contact
 
